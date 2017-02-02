@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>GameFly.xcscheme</key>
+		<key>FlappyBird.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>84ABB1D41E43C4D600C426A0</key>
+		<key>437451F9193D163700654986</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4374520F193D163800654986</key>
 		<dict>
 			<key>primary</key>
 			<true/>
